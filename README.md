@@ -1,5 +1,4 @@
 # Cleaning-and-Manipulating-Data-in-Pandas
-# Cleaning and Manipulating Data in Pandas
 
 ## What is Pnadas ? 
 
